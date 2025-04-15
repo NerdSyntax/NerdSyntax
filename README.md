@@ -38,8 +38,9 @@
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/> 
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"/> 
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" title="Django" width="48" height="48"/>
+  <img src="https://iconos8.es/icons/set/django" title="Django" />
   <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" title="Android Studio"/> 
+  https://iconos8.es/icons/set/django
 </div>
 <br>
 
