@@ -20,7 +20,14 @@
 
 <br>
 <div align="center">
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/> 
+  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/> 
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/> 
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"/> 
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-godot-engine-a-feature-packed-2d-and-3d-open-source-game-engine-logo-color-tal-revivo.png" title="Godot Engine"/> 
+  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" title="Android Studio"/> 
+  <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png" title="Visual Studio"/>
 </div>
 <br>
 
