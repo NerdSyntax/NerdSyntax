@@ -18,27 +18,29 @@
 ## Conéctate conmigo ☕:
 
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/> 
-  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/> 
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/> 
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"/> 
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
-  <img src="https://img.icons8.com/fluency/48/django.png" title="Django" />
-  <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" title="Android Studio"/> 
+  <a href="https://facebook.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" title="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" title="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" title="LinkedIn"/>
+  </a>
 </div>
 
 ---
 
-## Lo que me gusta hacer 🧑‍💻:
+## Stack Tecnológico 💻:
 
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/> 
-  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/> 
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/> 
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"/> 
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5"/> 
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/> 
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript"/> 
+  <img src="https://img.icons8.com/color/48/angularjs.png" title="Angular"/> 
+  <img src="https://img.icons8.com/color/48/python--v1.png" title="Python"/>
   <img src="https://img.icons8.com/fluency/48/django.png" title="Django" />
-  <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" title="Android Studio"/> 
+  <img src="https://img.icons8.com/color/48/android-studio--v2.png" title="Android Studio"/> 
 </div>
 
 ---
@@ -57,10 +59,5 @@
 
 ---
 
-## Actividad Reciente 📊:
-
-[![José's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NerdSyntax&theme=algolia)](https://github.com/NerdSyntax)
-
----
-
 *Última edición: 15/04/2025*
+
