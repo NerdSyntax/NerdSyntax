@@ -25,9 +25,7 @@
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/> 
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"/> 
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-godot-engine-a-feature-packed-2d-and-3d-open-source-game-engine-logo-color-tal-revivo.png" title="Godot Engine"/> 
   <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" title="Android Studio"/> 
-  <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png" title="Visual Studio"/>
 </div>
 <br>
 
@@ -40,9 +38,8 @@
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/> 
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"/> 
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/godot-engine.png" title="Godot Engine"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" title="Django" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" title="Android Studio"/> 
-  <img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png" title="Visual Studio"/>
 </div>
 <br>
 
