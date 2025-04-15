@@ -27,15 +27,16 @@
 ## What I am Good at 🧑‍💻 :
 
 <br>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> 
-<img src="https://img.icons8.com/color/48/000000/css3.png"/> 
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
-<img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"/> 
-<img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
-<img src="https://img.icons8.com/color/48/000000/godot-engine.png" title="Godot Engine"/> 
-<img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" title="Android Studio"/> 
-<img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png" title="Visual Studio"/>
-
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/> 
+  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/> 
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/> 
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"/> 
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/godot-engine.png" title="Godot Engine"/> 
+  <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" title="Android Studio"/> 
+  <img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png" title="Visual Studio"/>
+</div>
 <br>
 
 ## GitHub Stats 📈 :
