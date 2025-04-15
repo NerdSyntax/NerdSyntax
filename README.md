@@ -1,67 +1,67 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm José</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
+![GitHub followers](https://img.shields.io/github/followers/TuNombreDeUsuario?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/TuNombreDeUsuario?style=social)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=TuNombreDeUsuario)
+<img src="https://komarev.com/ghpvc/?username=TuNombreDeUsuario" alt="profile views" />
 
-## About Me :
+## Sobre mí:
 
 🎓 Estudio **Ingeniería en Informática** en [Duoc UC Sede Plaza Norte](https://www.duoc.cl/sedes/plaza-norte/)  
+🏡 Vivo en **Santiago, Chile**  
+⚡ **Cosas que me gustan:** 🍕 🎥 🥊 🚴‍♂️
 
-- 🏡 Lives in **Chile, Santiago**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+> 💬 "Soy José, un luchador en busca de la felicidad."
 
-<br>
+---
 
-## **"Soy José, un luchador en busca de la felicidad."**
+## Conéctate conmigo ☕:
 
-<br>
-
-## Connect with me ☕ :
-
-<br>
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/> 
   <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/> 
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/> 
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"/> 
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" title="Android Studio"/> 
-</div>
-<br>
-
-## What I am Good at 🧑‍💻 :
-
-<br>
-<div align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/> 
-  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/> 
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/> 
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"/> 
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
-  <img src="https://img.iconos8.es/icon/mUBILbYvUMq8/django" title="Django" />
+  <img src="https://img.icons8.com/fluency/48/django.png" title="Django" />
   <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" title="Android Studio"/> 
-  
 </div>
-<br>
 
-## GitHub Stats 📈 :
+---
 
-<br>
+## Lo que me gusta hacer 🧑‍💻:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushkaWijegoonawardana97&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![AnushkaWijegoonawardana97 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/> 
+  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/> 
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/> 
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"/> 
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
+  <img src="https://img.icons8.com/fluency/48/django.png" title="Django" />
+  <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" title="Android Studio"/> 
+</div>
 
-<br>
+---
 
-## GitHub Thropies 🏆 :
+## GitHub Stats 📈:
 
-<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TuNombreDeUsuario&theme=algolia)](https://git.io/streak-stats)  
+[![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuNombreDeUsuario&theme=algolia)](https://github.com/TuNombreDeUsuario/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNombreDeUsuario&layout=compact&theme=algolia)](https://github.com/TuNombreDeUsuario/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
+---
 
-<br>
+## Trofeos de GitHub 🏆:
 
-## Activity Graph 📊 :
+[![trophy](https://github-profile-trophy.vercel.app/?username=TuNombreDeUsuario&theme=algolia)](https://github.com/TuNombreDeUsuario/github-profile-trophy)
 
+---
 
-Last edited on: 15/04/2025
+## Actividad Reciente 📊:
 
+[![José's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TuNombreDeUsuario&theme=algolia)](https://github.com/TuNombreDeUsuario)
+
+---
+
+*Última edición: 15/04/2025*
