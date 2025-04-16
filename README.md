@@ -14,7 +14,7 @@
 - 🏡 Vivo en **Santiago, Chile**
 - ⚡ **Cosas que me gustan:** 🍕 🎥 🥊 🚴‍♂️
 
-> 💬 "Soy José, un luchador en busca de la felicidad."
+> 💬 "Soy José, un soñador y luchador, en busca de la felicidad."
 
 ---
 
