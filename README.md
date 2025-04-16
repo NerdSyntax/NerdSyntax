@@ -43,7 +43,7 @@
   <img src="https://img.icons8.com/color/48/angularjs.png" title="Angular"/> 
   <img src="https://img.icons8.com/color/48/python--v1.png" title="Python"/>
   <!-- Imagen alternativa para Django -->
-  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" title="Django" width="48" height="48"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" title="Django" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/android-studio--v2.png" title="Android Studio"/> 
 </div>
 
