@@ -66,10 +66,10 @@
 ---
 
 ## 📈 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NerdSyntax&theme=algolia)](https://git.io/streak-stats)  [![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=NerdSyntax&theme=algolia)](https://github.com/NerdSyntax/github-readme-stats)  
-
 <p align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NerdSyntax&theme=algolia)](https://git.io/streak-stats)  
+  [![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=NerdSyntax&theme=algolia)](https://github.com/NerdSyntax/github-readme-stats)  
+
   <a href="https://github.com/NerdSyntax/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerdSyntax&layout=compact&theme=algolia" alt="Top Languages" />
   </a>
