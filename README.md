@@ -62,6 +62,7 @@
 > <p align="center">
 >   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 >   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+>   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 > </p>
 
 ---
@@ -71,8 +72,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NerdSyntax&show_icons=true&theme=algolia" alt="GitHub stats"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NerdSyntax&theme=algolia" alt="Streak stats"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerdSyntax&layout=compact&theme=algolia" alt="Top Langs"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+
 </p>
 
 ---
