@@ -1,6 +1,4 @@
 <h1 align="center">Hola 👋, soy José</h1>
-<h3 align="center">Estudiante de Ingeniería en Informática apasionado por la tecnología 🚀</h3>
-
 <p align="center">
   <a href="https://github.com/NerdSyntax">
     <img src="https://img.shields.io/github/followers/NerdSyntax?style=social" alt="Followers" />
