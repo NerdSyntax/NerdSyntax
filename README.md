@@ -67,8 +67,15 @@
 
 ## 📈 Estadísticas de GitHub
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NerdSyntax&theme=algolia)](https://git.io/streak-stats)  
-  [![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=NerdSyntax&theme=algolia)](https://github.com/NerdSyntax/github-readme-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=NerdSyntax&theme=algolia" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NerdSyntax/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=NerdSyntax&theme=algolia" alt="José's GitHub stats" />
+  </a>
 </p>
 
 <p align="center">
@@ -76,7 +83,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerdSyntax&layout=compact&theme=algolia" alt="Top Languages" />
   </a>
 </p>
-
 ---
 
 ## 🏆 Trofeos
