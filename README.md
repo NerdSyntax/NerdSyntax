@@ -67,22 +67,19 @@
 
 ## 📈 GitHub Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NerdSyntax&theme=algolia)](https://git.io/streak-stats)  [![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=NerdSyntax&theme=algolia)](https://github.com/NerdSyntax/github-readme-stats)  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NerdSyntax&show_icons=true&theme=algolia" alt="GitHub stats"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NerdSyntax&theme=algolia" alt="Streak stats"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerdSyntax&layout=compact&theme=algolia" alt="Top Languages"/><br/>
+  <a href="https://github.com/NerdSyntax/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerdSyntax&layout=compact&theme=algolia" alt="Top Languages" />
+  </a>
 </p>
-
 ---
-
 ## 🏆 Trofeos
 
 
-<br>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=NerdSyntax&theme=algolia)](https://github.com/NerdSyntax/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
-
-<br>
 
 ---
 
