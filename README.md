@@ -56,7 +56,7 @@
 
 ---
 
-> ### ⚙️ Tools  
+> ### ⚙️ Herramientas  
 > <p align="center">
 >   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 >   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -65,7 +65,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estadísticas de GitHub
 <p align="center">
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NerdSyntax&theme=algolia)](https://git.io/streak-stats)  
   [![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=NerdSyntax&theme=algolia)](https://github.com/NerdSyntax/github-readme-stats)
@@ -76,12 +76,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerdSyntax&layout=compact&theme=algolia" alt="Top Languages" />
   </a>
 </p>
+
 ---
+
 ## 🏆 Trofeos
 
-
   [![trophy](https://github-profile-trophy.vercel.app/?username=NerdSyntax&theme=algolia)](https://github.com/NerdSyntax/github-profile-trophy)
-
 
 ---
 
@@ -102,4 +102,3 @@
 <p align="center">
   ✨ *Última edición: 15/04/2025* ✨
 </p>
-
