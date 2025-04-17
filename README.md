@@ -77,9 +77,12 @@
 
 ## 🏆 Trofeos
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NerdSyntax&theme=algolia&margin-w=15&no-frame=true&column=3" alt="Trophies"/>
-</p>
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
+
+<br>
 
 ---
 
