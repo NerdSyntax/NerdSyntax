@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy José</h1>
+<h1 align="center">Hola 👋, soy José </h1>
 <p align="center">
   <a href="https://github.com/NerdSyntax">
     <img src="https://img.shields.io/github/followers/NerdSyntax?style=social" alt="Followers" />
@@ -110,5 +110,7 @@
 </p>
 
 <p align="center">
-  ✨ *Última edición: 15/04/2025* ✨
+
+  <br>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGo3dmY4ZXRha2ZsYmNyZTU0enNkMTE1ajhqdHA3Mnp1N2VjbDAwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TNf5oSRelTeI8/giphy.gif" width="200"/>
 </p>
