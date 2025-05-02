@@ -71,7 +71,6 @@
 
 ## 📈 Estadísticas de GitHub
 <p align="center">
-  <a href="https://github.com/NerdSyntax">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=NerdSyntax&theme=algolia" alt="GitHub Streak" />
   </a>
 </p>
