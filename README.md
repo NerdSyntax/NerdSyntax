@@ -1,4 +1,7 @@
-<h1 align="center">Hola 👋, soy José </h1>
+
+<p align="center">
+  <img src="assets/presentacion.svg" width="800px" />
+</p>
 <p align="center">
   <a href="https://github.com/NerdSyntax">
     <img src="https://img.shields.io/github/followers/NerdSyntax?style=social" alt="Followers" />
