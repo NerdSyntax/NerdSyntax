@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1500 150" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1500 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#36D7B7;" />
@@ -9,15 +9,15 @@
 
   <style>
     .text {
-      font-family: monospace;
-      font-size: 30px;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 55px;
       fill: url(#gradient);
     }
 
     @keyframes typing {
       0% { width: 0; }
       50% { width: 45ch; } /* Escribir todo el texto */
-      70% { width: 45ch; } /* Mantenerlo escrito más tiempo */
+      70% { width: 45ch; } /* Mantenerlo visible */
       100% { width: 0; } /* Borrar todo el texto */
     }
 
@@ -34,18 +34,12 @@
       border-right: 0.15em solid white;
       animation: typing 16s steps(45) infinite, blink 0.7s step-end infinite;
     }
-
-    .text-holder {
-      animation: typing 16s steps(45) infinite, blink 0.7s step-end infinite;
-    }
   </style>
 
-  <foreignObject x="50" y="30" width="1400" height="150">
+  <foreignObject x="50" y="40" width="1400" height="200">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <div>
-        <div class="text typing-container">
-          Hola 👋, soy José. Soy Ingeniero Informático.
-        </div>
+      <div class="text typing-container">
+        Hola 👋, soy José. Ingeniero Informático.
       </div>
     </div>
   </foreignObject>
