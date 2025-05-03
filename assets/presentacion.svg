@@ -1,42 +1,52 @@
-<svg viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1500 150" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#36D7B7; stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#2980B9; stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#8E44AD; stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#36D7B7;" />
+      <stop offset="50%" style="stop-color:#2980B9;" />
+      <stop offset="100%" style="stop-color:#8E44AD;" />
     </linearGradient>
   </defs>
 
   <style>
     .text {
-      font-family: Arial, sans-serif;
-      font-size: 24px;
+      font-family: monospace;
+      font-size: 30px;
       fill: url(#gradient);
     }
 
-    .typing {
-      animation: typing 6s steps(30, end) infinite;
-      white-space: nowrap;
-      overflow: hidden;
+    @keyframes typing {
+      0% { width: 0; }
+      50% { width: 45ch; } /* Escribir todo el texto */
+      70% { width: 45ch; } /* Mantenerlo escrito más tiempo */
+      100% { width: 0; } /* Borrar todo el texto */
     }
 
-    @keyframes typing {
-      0% { opacity: 1; }
-      25% { opacity: 1; }
-      50% { opacity: 0; }
-      75% { opacity: 1; }
-      100% { opacity: 1; }
+    @keyframes blink {
+      0%, 100% { border-color: transparent; }
+      50% { border-color: white; }
+    }
+
+    .typing-container {
+      display: inline-block;
+      max-width: 100%;
+      overflow: hidden;
+      white-space: nowrap;
+      border-right: 0.15em solid white;
+      animation: typing 16s steps(45) infinite, blink 0.7s step-end infinite;
+    }
+
+    .text-holder {
+      animation: typing 16s steps(45) infinite, blink 0.7s step-end infinite;
     }
   </style>
 
-  <text class="text" x="50%" y="50%" text-anchor="middle">
-    <tspan>
-      <animate attributeName="opacity" values="1;1;1;0;0;1" dur="8s" repeatCount="indefinite" />
-      Hola 👋, soy José.
-    </tspan>
-    <tspan>
-      <animate attributeName="opacity" values="0;0;1;1;1;0" dur="8s" repeatCount="indefinite" />
-      Ingeniero Informático
-    </tspan>
-  </text>
+  <foreignObject x="50" y="30" width="1400" height="150">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div>
+        <div class="text typing-container">
+          Hola 👋, soy José. Soy Ingeniero Informático.
+        </div>
+      </div>
+    </div>
+  </foreignObject>
 </svg>
