@@ -1,0 +1,35 @@
+<svg viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: Arial, sans-serif;
+      font-size: 24px;
+      fill: #333;
+    }
+
+    .typing {
+      animation: typing 4s steps(30, end) infinite;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+
+    @keyframes typing {
+      0% { content: "Hola 👋, soy José"; }
+      20% { content: "Hola 👋, soy José"; }
+      40% { content: ""; }
+      60% { content: "Ingeniero Informático"; }
+      80% { content: "Ingeniero Informático"; }
+      100% { content: ""; }
+    }
+  </style>
+
+  <text class="text" x="50%" y="50%" text-anchor="middle">
+    <tspan>
+      <animate attributeName="opacity" values="1;1;0;0;1;1;0" dur="6s" repeatCount="indefinite" />
+      Hola 👋, soy José
+    </tspan>
+    <tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0;0;1" dur="6s" repeatCount="indefinite" />
+      Ingeniero Informático
+    </tspan>
+  </text>
+</svg>
