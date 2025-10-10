@@ -18,7 +18,7 @@
 
 - 🎓 Estudiante de **Ingeniería en Informática** en [Duoc UC - Sede Plaza Norte](https://www.duoc.cl/sedes/plaza-norte/)  
 - 🌍 Desde **Santiago, Chile**  
-- ⚡ Intereses: 🍕| 🥊| 🚴‍♂️| 💻  
+- ⚡ Intereses:  🥊| 🚴‍♂️| 💻  
 
 > *"Un soñador y luchador en busca de la felicidad."*
 
