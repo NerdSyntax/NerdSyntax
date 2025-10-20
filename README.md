@@ -14,19 +14,19 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
-- 🎓 Estudiante de **Ingeniería en Informática** en [Duoc UC - Sede Plaza Norte](https://www.duoc.cl/sedes/plaza-norte/)  
-- 🌍 Desde **Santiago, Chile**  
-- ⚡ Intereses:  🥊| 🚴‍♂️| 💻  
+-  Estudiante de **Ingeniería en Informática** en [Duoc UC - Sede Plaza Norte](https://www.duoc.cl/sedes/plaza-norte/)  
+- Desde **Santiago, Chile**  
+-  
 
 > *"Un soñador y luchador en busca de la felicidad."*
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center"> Tech Stack</h3>
 
-> ### 🐍 Backend  
+> ###  Backend  
 > <p align="center">
 >   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 >   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -34,7 +34,7 @@
 
 ---
 
-> ### 🌐 Frontend  
+> ###  Frontend  
 > <p align="center">
 >   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 >   <img src="https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -44,7 +44,7 @@
 
 ---
 
-> ### 📱 Mobile  
+> ###  Mobile  
 > <p align="center">
 >   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 >   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
@@ -52,14 +52,14 @@
 
 ---
 
-> ### 🗄️ Database  
+> ###  Database  
 > <p align="center">
 >   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 > </p>
 
 ---
 
-> ### ⚙️ Herramientas  
+> ###  Herramientas  
 > <p align="center">
 >   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 >   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -72,7 +72,7 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
+##  Estadísticas de GitHub
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=NerdSyntax&theme=algolia" alt="GitHub Streak" />
   </a>
@@ -91,13 +91,13 @@
 </p>
 ---
 
-## 🏆 Trofeos
+##  Trofeos
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=NerdSyntax&theme=algolia)](https://github.com/NerdSyntax/github-profile-trophy)
 
 ---
 
-## 📬 Conéctate conmigo
+##  Conéctate conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/josé-luis-oporto-valenzuela-9676a9293" target="_blank">
