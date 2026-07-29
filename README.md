@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="assets/presentacion.svg" width="800px" />
 </p>
@@ -73,7 +74,7 @@
 
 ##  Estadísticas de GitHub
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=NerdSyntax&theme=algolia" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=NerdSyntax&theme=algolia" alt="GitHub Streak" />
   </a>
 </p>
 
